@@ -1,4 +1,4 @@
-/* El usuario ingresa 3 valores(hora, minuto y segundo). Se debe retornar el segundo siguiente utilizando el sistema sexagesimal.
+/* El usuario ingresa 3 valores(hora, minuto y segundo). Se debe retornar el segundo siguiente utilizando el sistema sexagesimal.*/
 
 #include <stdio.h>
 
