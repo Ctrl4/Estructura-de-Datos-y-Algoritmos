@@ -3,13 +3,14 @@
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
+
     /* Estructura para una jugada simple */
 struct jugada{
-    //Jugada del usuario
+    //Jugada del usuario ingresada por teclado.
     int miJugada[5];
-    //Bolillero simple
+    //Bolillero simple generado de manera random
     int bolillero[5];
-    //Bolilla extra
+    //Bolilla extra generada de manera random.
     int bolillaExtra;
 };
 
