@@ -4,14 +4,14 @@
 
 int main(){
   int hora, minuto, segundo;
-  
-  prtinf("Ingrese hora: ");
+
+  printf("Ingrese hora: ");
   scanf("%d",&hora);
-  prtinf("Ingrese minuto: ");
+  printf("Ingrese minuto: ");
   scanf("%d",&minuto);
-  prtinf("Ingrese segundo: ");
+  printf("Ingrese segundo: ");
   scanf("%d",&segundo);
-  
+
   segundo++;
   if(segundo==60){
     segundo=0;
@@ -39,6 +39,6 @@ int main(){
   }else{
     printf("%d",segundo);
   };
-  
+
   return 0;
 }
