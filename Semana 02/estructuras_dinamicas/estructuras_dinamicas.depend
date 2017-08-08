@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1502148155 source:/home/tecnoinf/Escritorio/EDA/Semana2/estructuras_dinamicas/arreglos.cpp
+	"arreglos.h"
+
+1502144592 /home/tecnoinf/Escritorio/EDA/Semana2/estructuras_dinamicas/arreglos.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1502151624 source:/home/tecnoinf/Escritorio/EDA/Semana2/estructuras_dinamicas/arreglosConTope.cpp
+	"arreglos.h"
+	"arreglosConTope.h"
+
+1502148312 source:/home/tecnoinf/Escritorio/EDA/Semana2/estructuras_dinamicas/matrices.cpp
+
+1502151882 source:/home/tecnoinf/Escritorio/EDA/Semana2/estructuras_dinamicas/main.cpp
+	"arreglos.h"
+	"arreglosConTope.h"
+
+1502151950 /home/tecnoinf/Escritorio/EDA/Semana2/estructuras_dinamicas/arreglosConTope.h
+	"arreglos.h"
+
